@@ -27,14 +27,14 @@
       }
     ]
   },
-  "interests": [ 
+  "interests" : [ 
     {
       "name": "MIS",
       "keywords": [
     ]
     },
     
-  "skills": [
+  "skills" : [
     {
       "name": "Languages and Frameworks",
       "level": "",
@@ -59,7 +59,7 @@
       ]
     }
   ],
-  "education": [
+  "education" : [
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
@@ -71,7 +71,7 @@
       ]
     }
   ],
-  "work": [
+  "work" : [
     {
       "company": "UH Manoa Board of Publications",
       "position": "Web Developer",
@@ -97,7 +97,7 @@
       ]
     }
   ],
-  "volunteer": [
+  "volunteer" : [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
@@ -124,7 +124,7 @@
       ]
     }
   ],
-  "awards": [
+  "awards" : [
     {
       "title": "B+ Scholarship",
       "date": "2013-Present",
@@ -138,7 +138,7 @@
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
-  "references": [
+  "references" : [
     {
       "name": "Available upon request",
       "reference": ""
