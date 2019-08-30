@@ -31,6 +31,8 @@
     {
       "name": "MIS",
       "keywords": [
+        "Arduino",
+        "TI MSP430"
     ]
   },
   "skills": [
