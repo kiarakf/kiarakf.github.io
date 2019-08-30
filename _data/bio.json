@@ -31,10 +31,9 @@
     {
       "name": "MIS",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
-    ]
-  },
+      ]
+    }
+  ],
   "skills": [
     {
       "name": "Languages and Frameworks",
