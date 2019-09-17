@@ -26,6 +26,3 @@ BROWSER HISTORY 3
 Like BrowserHistory2, I had to attempt this WOD multiple times in order to get the correct final piece. Again, I struggled getting started with this WOD. There wasn’t a lot of new aspects that needed to be done in this WOD, but the new objectives were a little more challenging. Like WOD2, I needed to reference back to the screen cast in order to even complete my first attempt. I got a DNF for my first initial attempt because I did not know where to begin to get the 3 difference columns for each web browser. However, I was surprised when I somewhat recognized how to insert a navigation bar into the page (thank you ICS101!). Once I got the final piece, with help from the screen cast, I was able to re-do the WOD and complete it within the SD timeframe. 
 
 I do realize that Proffesor Port recommened we not watch the screencast at the same time as our initial attempt, but my advice is to do what you can, reference back when needed, and then go back and try it by yourself again! 
-
-
-
