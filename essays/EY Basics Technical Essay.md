@@ -21,4 +21,11 @@ Compared to BrowserHistory1, BrowserHistory2 was more of a struggle for me. I at
 
 After doing this WOD I found a way of completing the tasks that works for me. I do what I can on my first attempt, then reference back to the screencast when I am confused on what to do. By doing this, I know I am going to get a DNF. I just continue to go back and forth and get to the final result. Once I get to the final result, I delete my code and start up to get a better time. I had to attempt this WOD multiple times in order to get a time that I was satisfied with. However, I didnt have to reference the screencast during my final trys. I was familiar with what I was doing, just needed to become more efficient. 
 
+BROWSER HISTORY 3
+
+Like BrowserHistory2, I had to attempt this WOD multiple times in order to get the correct final piece. Again, I struggled getting started with this WOD. There wasn’t a lot of new aspects that needed to be done in this WOD, but the new objectives were a little more challenging. Like WOD2, I needed to reference back to the screen cast in order to even complete my first attempt. I got a DNF for my first initial attempt because I did not know where to begin to get the 3 difference columns for each web browser. However, I was surprised when I somewhat recognized how to insert a navigation bar into the page (thank you ICS101!). Once I got the final piece, with help from the screen cast, I was able to re-do the WOD and complete it within the SD timeframe. 
+
+I do realize that Proffesor Port recommened we not watch the screencast at the same time as our initial attempt, but my advice is to do what you can, reference back when needed, and then go back and try it by yourself again! 
+
+
 
