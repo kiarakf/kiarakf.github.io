@@ -26,3 +26,12 @@ BROWSER HISTORY 3
 Like BrowserHistory2, I had to attempt this WOD multiple times in order to get the correct final piece. Again, I struggled getting started with this WOD. There wasn’t a lot of new aspects that needed to be done in this WOD, but the new objectives were a little more challenging. Like WOD2, I needed to reference back to the screen cast in order to even complete my first attempt. I got a DNF for my first initial attempt because I did not know where to begin to get the 3 difference columns for each web browser. However, I was surprised when I somewhat recognized how to insert a navigation bar into the page (thank you ICS101!). Once I got the final piece, with help from the screen cast, I was able to re-do the WOD and complete it within the SD timeframe. 
 
 I do realize that Proffesor Port recommened we not watch the screencast at the same time as our initial attempt, but my advice is to do what you can, reference back when needed, and then go back and try it by yourself again! 
+
+BROWSER HISTORY 6
+
+This WOD was a continuation of the Browser History 3 that we did a couple of weeks ago. Instead of all 3-browser histories on one page, however, we put them on single pages and created a button at the top of the home page. This button sends the reader to the separate page where they can read the history information. The link to the instruction is here. 
+
+In this WOD, things went a lot smoother than my previous experiences. I was able to get to step 7 without having any questions or issues. Once I reached to step 8, I kept receiving an error message in my VS Code. I had to continue to re-read my code to find where I was missing my quotation or >. 
+
+When I was preparing for this WOD I went over the last browser history 3 code and refamiliarized myself with it. Something that I did different was trying my hardest to complete the WOD without looking at the screencast. I definitely felt more comfortable with this WOD than the others, so I did not rely on getting through it using the screen cast as much. Something that I could have done better to prepare for the WOD was read the instructions in depth before-hand instead of just reading it as I get through the objectives. This way, I could google and research the steps I was unfamiliar with prior so I wouldn’t get stuck and eat up time during the steps. 
+
