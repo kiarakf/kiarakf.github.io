@@ -35,3 +35,13 @@ In this WOD, things went a lot smoother than my previous experiences. I was able
 
 When I was preparing for this WOD I went over the last browser history 3 code and refamiliarized myself with it. Something that I did different was trying my hardest to complete the WOD without looking at the screencast. I definitely felt more comfortable with this WOD than the others, so I did not rely on getting through it using the screen cast as much. Something that I could have done better to prepare for the WOD was read the instructions in depth before-hand instead of just reading it as I get through the objectives. This way, I could google and research the steps I was unfamiliar with prior so I wouldn’t get stuck and eat up time during the steps. 
 
+INVOICE 1
+
+For this WOD, we incorporated expressions and variables that we have been learning in class. We were assigned to create a sales receipt with 5 different products and needed to have the quantity and price, as well as compute the extended price, subtotal, tax, and the grand total. For further details on the assignment you can find the page linked here. 
+
+I found ease in creating the script for each item, quantity, and price, as well as computing the extended price, subtotal, tax, and the grand total. What slowed me down on this WOD was creating the table to insert the information into. I attempted to do this WOD before we learned it in Lab 6, so it was a very guess-and try type of game. I ended up viewing the page source from the Invoice 1 site and looked at the table code that was inputted. However, the code that was on the site was hard coded. This meant that I had to edit that code and insert the script form to display the information. I kept the aspects that created each cell but I had to use the script variables to show my information. Once I figured out I had to do that to complete the table, it was smooth sailing for me. 
+
+Since I attempted to do the WOD before we went over it in depth in class, I had to do a lot of personal research to figure out what to do. I did research as well as watch part of the screen cast to confirm my findings. I did enjoy doing the assignment early, but I also enjoyed learning the “why’s” and “why-nots” about the tasks in class. Compared to the other WODS, I tried not to use the screen cast as much. I also liked that the instructions for this WOD were a lot more in depth and detailed. 
+
+For the next WOD I plan on waiting until it is assigned and learn the things in class before attempting to do it at home. I think this will allow me to do it without using the screen cast at all and see how much I am “digesting” from class. 
+
