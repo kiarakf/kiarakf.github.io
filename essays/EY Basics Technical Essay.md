@@ -45,3 +45,10 @@ Since I attempted to do the WOD before we went over it in depth in class, I had 
 
 For the next WOD I plan on waiting until it is assigned and learn the things in class before attempting to do it at home. I think this will allow me to do it without using the screen cast at all and see how much I am “digesting” from class. 
 
+INVOICE 2
+
+This WOD was a continuation of Invoice 1. For this assignment, we needed to add another aspect to our sales receipt. Based on the subtotal of the items in the receipt, the consumer will also have an additional shipping charge. In order to create this shipping charge, we needed to add an if and if else condition. A link to the assignment information is here. 
+
+Honestly, I struggled in the beginning of attempting this WOD. I understood the Lab 8 that was done I class, but when I got to the Invoice, I questioned the correct steps to take. The part of the Invoice 2 that confused me was when I had to input the final else condition. I did not know that I had to create a new var’s name to make the shipping answer subtotal multiplied by 5%. The next aspect of the WOD that slowed me down was realizing that I had to move the var total after the var shipping. Once I moved it down then it was showing correctly. 
+
+I think the lab 8 that we did in class was a lot of preparation for this WOD. However, I do think that I had a lot of questions that I maybe shouldn’t have had. I am not sure why I had a hard time adding the second else condition. After I put it in with help from a classmate, it all made sense, like a lot things that we do in class and the screencasts. That is why I am getting a little nervous about the things we are learning in this class. I do understand it after I am told what to do and why to do it… but it seems that other people in class already know “off-the-bat” what to do without needing help. Is that just me? Is that normal? 
