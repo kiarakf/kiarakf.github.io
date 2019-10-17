@@ -61,3 +61,20 @@ The first time I attempted this WOD I was able to complete the three out of the 
 
 I realize that by now, my routine for these WODs have been pretty similar for each assignment. I attempt to do the WOD the first time without help from the screencast, and once I get stuck, I reference the video to help me continue the assignment. However, even using the screencast, I still had to ask professor port for some assistance. I really don’t think that I have could done anything to better prepare for this WOD. The practice that we did in class, as well as the detailed instructions made this WOD an easier task. 
 
+Invoice1_1
+
+This WOD was another continuation of Invoice 1, similar to Invoice 2. For this WOD we are told to create a “running total” instead of computing all of the extended prices. Instead of hard coding the computations, we had to use expressions and variables. A link to the WOD detail page can be found here.
+
+For this WOD, I had trouble in a few places. The first issue that I struggled with was knowing to separate each section of the table with separate document.write(``) commands. Once I did that, I was able to get further along in the assignment. I inserted the variables above each separate item, and then ran into my next problem. In the instructions it said to not create new variables for each row, but for my first attempt at the WOD, I created new variables (oops). Once I deleted the command that created the variables and made it a running variable, like we were supposed to, my page ran correctly. 
+
+In order to prepare for this WOD I did a lot of googling. One thing that I had to google was how to fix my running variable issue. This WOD was a little different because we were not given the screencast to help us with our issues. For some reason, I like doing the WOD’s without the screencast because it forces me to google more. Sometimes it is harder to have the self-discipline to not rely on the screencasts given. 
+
+
+Smartphone Products 3
+
+For Smartphone Products 3, we used the files from smartphone 2 to create objects and array’s instead of each individual variable for each item. The instructions to this WOD is here. 
+
+I really enjoyed doing this WOD. I found that I am finally getting the hang of some of the concepts that we are learning in class, especially the objects and arrays section. When referencing the readings that were given to us, completing WOD was quite easy. The only part that I stumbled on was when creating the loop. However, I was able to overcome this struggle by referencing back to one of the assignments we did in lab 10. 
+
+Different than the previous WOD’s, but similar to the Invoice1_1, I have been using the references given to us in the modules and past assignments to help me get through the WOD’s. I believe that this forces me to learn the concepts deeper than when I would depend on watching the screen cast. For the next WOD I will continue to use the references and assignments that are given to us. I believe that I have been able to prepare well for each WOD and found the ways in which I like to complete them.
+
