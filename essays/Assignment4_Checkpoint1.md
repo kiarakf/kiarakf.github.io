@@ -16,13 +16,18 @@ For our web application, we are creating a possible web-site for Kiara’s job. 
 Our website will use arrays, loops/conditions, and custom login features to display the products in the store. The user will be prompted to sign in or register when purchasing products, using the File I/O aspect. We will then incorporate the sessions/cookies to kick the user off if they have been inactive on the site for a minimum of 5 minutes. 
 
 - Sessions/Cookies
+
 User will have to re-login if they are inactive for 10 minutes
+
 - File I/O
 The user will have to login/register on the products page or log in/register after clicking purchase before viewing the invoice.  Regardless, the user must log in/register before completing the purchase of the products.
+
 - Multi-dimensional arrays
 User registration, displaying the products for sale
+
 - Form processing and validation of entries/Loops/Conditionals
 Entering product quantities, user login/registration
+
 -CSS/HTML5
 Site is professional, unique, and flows from page to page 
 
@@ -38,9 +43,9 @@ Progress Dates: (put “x” when completed)
 
 - Finish screencast aspect: Sunday Dec 15  
 
-Finish and turn in project report: Monday Dec 16
+- Finish and turn in project report: Monday Dec 16
 
-Finish and turn in peer evaluation: Monday Dec 16 
+- Finish and turn in peer evaluation: Monday Dec 16 
  
 4. What progress have you made so far and what is left for you to do?
 
