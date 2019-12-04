@@ -31,7 +31,7 @@ User registration, displaying the products for sale
 
 Entering product quantities, user login/registration
 
--CSS/HTML5
+- CSS/HTML5
 
 Site is professional, unique, and flows from page to page 
 
