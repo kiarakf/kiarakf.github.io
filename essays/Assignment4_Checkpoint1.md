@@ -30,17 +30,17 @@ Site is professional, unique, and flows from page to page
 
 Start early and finish early! We will constantly be working on the project and have a checklist that will show the progress we have made, as well as what we still have to complete. We will take things in stages and set goals to have aspects completed by a certain date so we don't have to cram right before the due date. 
 	
-	Progress Dates: (put “x” when completed)
+Progress Dates: (put “x” when completed)
 
-		- Finish 1st  Checkpoint by: Wednesday Dec 4 Done: ___
+- Finish 1st  Checkpoint by: Wednesday Dec 4
 
-		- Complete web page by: Saturday Dec 14 Done: ___
+- Complete web page by: Saturday Dec 14 
 
-		- Finish screencast aspect: Sunday Dec 15 Done: ___ 
+- Finish screencast aspect: Sunday Dec 15  
 
-		- Finish and turn in project report: Monday Dec 16 Done: ___
+Finish and turn in project report: Monday Dec 16
 
-		- Finish and turn in peer evaluation: Monday Dec 16 Done: ____
+Finish and turn in peer evaluation: Monday Dec 16 
  
 4. What progress have you made so far and what is left for you to do?
 
