@@ -20,15 +20,19 @@ Our website will use arrays, loops/conditions, and custom login features to disp
 User will have to re-login if they are inactive for 10 minutes
 
 - File I/O
+
 The user will have to login/register on the products page or log in/register after clicking purchase before viewing the invoice.  Regardless, the user must log in/register before completing the purchase of the products.
 
 - Multi-dimensional arrays
+
 User registration, displaying the products for sale
 
 - Form processing and validation of entries/Loops/Conditionals
+
 Entering product quantities, user login/registration
 
 -CSS/HTML5
+
 Site is professional, unique, and flows from page to page 
 
 3. What is your plan to ensure you successfully complete your project before the end of the semester?
