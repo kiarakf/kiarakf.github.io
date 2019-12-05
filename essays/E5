@@ -1,0 +1,48 @@
+---
+layout: essay
+type: essay
+title: E5 Reflecting on Assignment 2
+# All dates must be YYYY-MM-DD format!
+date: 2019-12-14
+labels:
+  - E5
+--- 
+
+-	Provide a brief introduction to the assignment along with a link to this page for further details
+
+For this assignment we were the marketing directors for a company where we had to upgrade the company website. We had to personalize the site so the users can register or sign in if they wanted to buy the products and have the pages greet each user with their login information. With each registration, users will have to follow requirements for the full name, username, password, and email in order to complete a registartion. To find more information about the assignment, you can click the link here. 
+
+
+-	What did you learn from this assignment?
+
+The main thing that I learned from this assignment was how to use the powerful tool of google. A lot of things that were required in this assignment needed to be searched up to complete it. In order to find the answer, however, you needed to word each google search to find what you are looking for. For example, we needed to search how to find the correct regular expression to complete the username, password, and email address validation. The validation for each required very selective rules, so each expression looked very similar, but had very different outcomes. Another example of how I used google to solve a problem during the assignment was when my partner and I had to complete the security aspect. We had to google how to stop users from accessing the invoice without logging in or registering. Through google, we learned the correct code that must be in the server to reject the user access. 
+
+
+-	Did you work with a partner? Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself).
+
+I decided to work with Alyssa Tugaeon for this assignment. I believe that I did a little more than Alyssa, but she was a great help in the process of completing the assignment. Percentage wise, I think I did 65% of the work and Alyssa did 35%. 
+
+
+-	How did you get help when you needed it? What did you need help with?
+
+I spent many nights on skype with other students in the class putting our brains together to find out how to complete aspects of the assignment. I believe that it is always best to work in groups to find the solution. I also got help from my sister-in-law, who got her master’s in computer engineering from USC. She was able to guide us through some issues, like point us in the right direction with the regular expressions. She also told me that it is great to work with classmates, use google, and to COMMENT the code so if someone was trying to help you, they can see what you were trying to do. 
+
+
+-	How was developing this assignment different than assignment #1?
+
+For me, the main thing that was different for this assignment was the structure of the website. Having to create a separate page for the login and registration with each validation was the main struggle for me. Adding this aspect of the assignment really showed us, and forced us, to understand what needed to be done, how it can get done, and why. 
+
+
+-	Estimate the % of time you spent (a) thinking about how to do something, (b) writing code (but do not include testing, (c) testing and debugging
+
+Overall, I think I spent most of the time thinking of the code that must be put in. If I were to split it up, I would say 40% thinking of the code, 25% writing the code, and 35% testing and rewriting the code to fix the bugging. Once I figured out the idea of what the code should look like, it was easier to test and debug it. However, finding out what the code needed to look like was the hardest task, which is why I gave it the highest percentage. 
+
+
+-	Describe what worked well with this project? What did not work well?
+
+I think the aspect of having a group was very helpful, but also a struggle. I am glad that I have friends in the class, outside of my group, that was available and allowed me to join in their skype calls to figure out aspects of the assignment. Although we did things together, it still required me to apply it to my own website page, which was a little different. It was also hard to both contribute to the code in a timely manner because the code could only be done on one computer, and not at the same time. I would have to finish parts of my code, send it to her via Github, then have her download it, and so on. It wasn’t the worst thing, just at times inconvenient because of the different schedules that we both had. 
+
+
+-	If you could go back in time and do things differently, what would you do differently?
+
+I don’t think that I would do anything differently. My partner and I were able to start the project early and finish it in time for the initial due date. If anything, I wouldn’t have worked on it so much in attempt to finish it by the initial deadline. I spent hours upon hours during the days leading up to the initial deadline, only to find out that we would have an extra week to complete it. This made the assignment extremely frustrating to me. In class Professor Port emphasized many times that the assignment would not get extended, then it did... In the end, I am happy that we were able to complete it early, not have to stress about it, and make sure that everything was how we wanted it to be. 
